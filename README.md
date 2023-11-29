@@ -2,7 +2,7 @@
 ### Git-
 Version control, collaboration,version control software
 ### Github-
-Web service
+Web service, you are able to make and create a account
 ### Repo-
 A project who can save multiple files
 ### Commit-
